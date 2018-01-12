@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pl.waw.sgh:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pl_waw_sgh_jar</output-path>
+    <root id="archive" name="pl.waw.sgh.jar">
+      <element id="module-output" name="pl.waw.sgh" />
+    </root>
+  </artifact>
+</component>
